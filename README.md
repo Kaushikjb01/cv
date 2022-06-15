@@ -8,5 +8,6 @@ This is my first website using basic html.
 5) table
 6) forms
 7) adding hyperlinks
+8) basic css
 
 Basically just the basic HTML.
