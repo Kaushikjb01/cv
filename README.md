@@ -10,4 +10,4 @@ This is my first website using basic html.
 7) adding hyperlinks
 8) basic css
 
-Basically just the basic HTML.
+Basically just the basic HTML and a bit of CSS.
